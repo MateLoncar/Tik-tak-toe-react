@@ -353,7 +353,7 @@ ol {
 @media screen and (max-width: 600px) {
   body {
     font-size: 14px;
-    margin: 0; /* Remove default body margin */
+    margin: 0;
   }
 
   #game-board button {
@@ -399,7 +399,6 @@ ol {
     margin-top: 1rem;
   }
 
-  /* New Styles for Mobile View */
   header {
     display: flex;
     flex-direction: column;
@@ -416,10 +415,10 @@ ol {
 
   h1 {
     font-size: 2rem;
-    margin: 0; /* Remove default margin for h1 */
+    margin: 0;
   }
 
   #game-container {
-    margin-top: 0.2rem; /* Adjust margin to bring the game board closer to the header */
+    margin-top: 0.2rem;
   }
 }
