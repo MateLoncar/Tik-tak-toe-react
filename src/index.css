@@ -365,6 +365,7 @@ ol {
   #game-container,
   #game-board {
     max-width: 100%;
+    padding: 0.5rem;
   }
 
   #players li {
@@ -419,6 +420,6 @@ ol {
   }
 
   #game-container {
-    margin-top: 0.2rem;
+    margin-top: 0.5rem;
   }
 }
